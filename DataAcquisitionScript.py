@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 
-
-# SETTING UP THE RPI, turning on blue light to show that rpi is ready to
-# be used
-import RPi.GPIO as#!/usr/bin/env python
-
-
 # SETTING UP THE RPI, turning on blue light to show that rpi is ready to
 # be used
 import RPi.GPIO as GPIO
